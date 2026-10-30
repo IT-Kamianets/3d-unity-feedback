@@ -1,0 +1,12 @@
+{
+  "name": "com.itkamianets.3d-unity-feedback",
+  "version": "0.1.0",
+  "displayName": "Unity Feedback",
+  "description": "Cheap visual feedback for fights, made from primitives: flashes and expanding rings, warnings on the floor, and a small health bar above a character.",
+  "unity": "6000.6",
+  "dependencies": {
+    "com.itkamianets.3d-unity-combat": "0.2.0"
+  },
+  "keywords": ["feedback", "effects", "healthbar", "engine"],
+  "author": { "name": "IT Kamianets" }
+}
