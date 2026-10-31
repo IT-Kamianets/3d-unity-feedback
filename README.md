@@ -11,7 +11,7 @@ What the effects mean and when they play is the game's business. When a game has
 
 ### Status
 
-v0.1: `Fx`, `FxPulse`, `HealthBar3D`. Used by Temnorid Dungeons, Conquest and Arena.
+v0.1: `Fx`, `FxPulse`, `HealthBar3D`. Used by Temnorid Arena, Caravan Guard, Conquest, Dungeons, Legends, Detective, Escape and Master.
 
 ### Roadmap
 
